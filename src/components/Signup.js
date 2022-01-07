@@ -266,7 +266,7 @@ function Signup() {
             email: '',
             password: "",
             passwordConfirm: "",
-            country:"",
+            country:"Afghanistan",
         },
         onSubmit: values => {
             console.log(values);
