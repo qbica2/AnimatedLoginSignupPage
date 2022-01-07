@@ -7,9 +7,9 @@
 ![](./src/assets/Signup.jpg)
 
 
-## Sayfamız bir container yapısı içerisinde 2si solda üst üste ve 2si sağda üst üste olmak üzere 4panelden oluşmakta
+## Sayfamız bir container yapısı içerisinde, 2si solda üst üste ve 2si sağda üst üste olmak üzere 4panelden oluşmakta.
 
-## Signup butonuna tıklanmasıyla sağdaki panel sola giderken soldaki sign in panelide sağa geçiyor ve aynı işlemi yapan sign up paneli görünür hale geliyor.
+## Signup butonuna tıklanmasıyla, sağdaki panel sola giderken, soldaki sign in paneli de sağa geçiyor ve aynı işlemi yapan sign up paneli görünür hale geliyor.
 
 ## Aynı işlem Signin butonuna tıklandığınında ters mantıkla işliyor.
 
